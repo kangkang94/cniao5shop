@@ -1,0 +1,1 @@
+include ':app', ':sharesdk', ':gloablelibrary', ':lib:pingpp', ':lib:pingpp_one', ':lib:bdwallet_pay_sdk'

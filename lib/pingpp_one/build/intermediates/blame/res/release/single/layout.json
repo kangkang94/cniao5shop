@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/build/intermediates/res/merged/release/layout/pingpp_activity_pay_successed.xml",
+        "source": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/res/layout/pingpp_activity_pay_successed.xml"
+    },
+    {
+        "merged": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/build/intermediates/res/merged/release/layout/cmbkeyboard.xml",
+        "source": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/build/intermediates/exploded-aar/cniao5shop.lib/pingpp/unspecified/res/layout/cmbkeyboard.xml"
+    },
+    {
+        "merged": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/build/intermediates/res/merged/release/layout/activity_pingpp_payment.xml",
+        "source": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/build/intermediates/exploded-aar/cniao5shop.lib/pingpp/unspecified/res/layout/activity_pingpp_payment.xml"
+    },
+    {
+        "merged": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/build/intermediates/res/merged/release/layout/pingpp_pay_channel_item.xml",
+        "source": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/res/layout/pingpp_pay_channel_item.xml"
+    },
+    {
+        "merged": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/build/intermediates/res/merged/release/layout/pingpp_activity_pay.xml",
+        "source": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/res/layout/pingpp_activity_pay.xml"
+    },
+    {
+        "merged": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/build/intermediates/res/merged/release/layout/fragment_pay_way_dialog.xml",
+        "source": "/Users/kang/Desktop/cniao5shop/lib/pingpp_one/res/layout/fragment_pay_way_dialog.xml"
+    }
+]
